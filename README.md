@@ -23,7 +23,7 @@ Chrome Dino inspired game built using Logisim Evolution.
 <img width="2381" height="1122" alt="Dino Game-Poster" src="https://github.com/user-attachments/assets/2bcea1bf-b07d-40f6-85cb-ad3365fc91d2" />
 
 ## Notes
-- The game requires the closk to be running (Auto Tick Enabled).
+- The game requires the clock to be running (Auto Tick Enabled).
 - Set the tick frequency to at least 32 Hz for proper gameplay.
 - Press the On button then the Start button to begin.
 - Use the Jump button to avoid cactus.
