@@ -1,5 +1,5 @@
 # Dino Runner Game in Logisim Evolution
-Chrome Dino inspired game built using Logisim Evolution.
+> Chrome Dino inspired game built using Logisim Evolution.
 
 
 ## Features
